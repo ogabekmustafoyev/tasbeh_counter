@@ -1,0 +1,40 @@
+.tasbeh-count {
+  width: 130px;
+  height: 150px;
+  background-color: rgb(157, 46, 6);
+  border: 1px solid rgb(78, 34, 3);
+  position: absolute;
+  top: 10%;
+  left: 39%;
+  border-radius: 20%;
+}
+.ekran {
+  width: 55%;
+  position: absolute;
+  top: 10%;
+  left: 20%;
+  height: 30px;
+  caret-color: white;
+  border-radius: 8%;
+  border: 1px solid floralwhite;
+  text-align: center;
+  font-size: 30px;
+}
+.tugma {
+  position: absolute;
+  top: 48%;
+  left: 38%;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  background-color: rgb(66, 64, 64);
+}
+.zero {
+  position: absolute;
+  top: 76%;
+  left: 40.5%;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background-color: black;
+}
